@@ -1,6 +1,6 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="about savemop">
+    <h1>This is the Save a Mop! page</h1>
   </div>
 </template>
 
